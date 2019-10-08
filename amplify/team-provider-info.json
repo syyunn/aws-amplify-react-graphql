@@ -1,0 +1,14 @@
+{
+    "mbp": {
+        "awscloudformation": {
+            "AuthRoleName": "myapp-mbp-20191008155911-authRole",
+            "UnauthRoleArn": "arn:aws:iam::221262875767:role/myapp-mbp-20191008155911-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::221262875767:role/myapp-mbp-20191008155911-authRole",
+            "Region": "ap-northeast-2",
+            "DeploymentBucketName": "myapp-mbp-20191008155911-deployment",
+            "UnauthRoleName": "myapp-mbp-20191008155911-unauthRole",
+            "StackName": "myapp-mbp-20191008155911",
+            "StackId": "arn:aws:cloudformation:ap-northeast-2:221262875767:stack/myapp-mbp-20191008155911/21b6d890-e999-11e9-9b92-06c2ced9dd8e"
+        }
+    }
+}
